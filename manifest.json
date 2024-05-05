@@ -1,9 +1,10 @@
 {
-	"id": "f735a004-b4c3-4b82-a31f-7e56c03effff",
-	"authors": ["HighTide"],
-	"origin": "https://github.com/HighTide/AMPTemplates.git",
-	"url": "https://github.com/HighTide/AMPTemplates",
-	"imagefile": "",
-	"prefix": "HighTide",
-	"repotype": "AppTemplates"
+    "id": "db106f63-d0a6-4d02-8395-f22f033d42fd",
+    "authors": [
+        " - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/ - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/ - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": " - Made with AMP Config Generator"
 }
